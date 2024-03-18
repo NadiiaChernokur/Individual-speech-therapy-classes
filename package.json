@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "individual-speech-therapy-classes",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://NadiiaChernokur.github.io/Individual-speech-therapy-classes",
@@ -28,7 +28,7 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "postcss": "^8.4.36",
     "posthtml-include": "^1.7.4",
-    "@parcel/core": "2.7.0."
+    "@parcel/core": "2.7.0"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
