@@ -28,5 +28,10 @@
     "postcss": "^8.4.36",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "transformers": {
+    "*.jpg": [
+      "@parcel/transformer-image"
+    ]
+  }
 }
