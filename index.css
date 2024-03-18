@@ -23,7 +23,7 @@ li {
   padding: 16px 14px;
   color: #104d02;
   font-weight: 400;
-  font-size: 23px;
+  font-size: 45px;
   box-shadow: 0 5px 11px rgb(6 130 6 / 50%);
   margin-bottom: 12px;
   width: 100%;
@@ -39,13 +39,16 @@ li {
   font-size: 32px;
 }
 .mainpage {
-  width: 100vh;
+  width: 100%;
 }
 .divH1 {
   background-image: url('./src/images/image_860402161038407888179.gif');
   margin-bottom: 12px;
   color: #104d02;
   box-shadow: 0 5px 11px rgb(6 130 6 / 50%);
+  width: 500px;
+  height: 126px;
+  padding-top: 30px;
 }
 .presentation {
   display: flex;
@@ -68,18 +71,18 @@ li {
 }
 .par {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 25px;
 }
 .work {
   display: flex;
   gap: 12px;
   box-shadow: 0 5px 11px rgb(6 130 6 / 50%);
-  padding: 10px;
+  padding: 10px 28px;
   margin-bottom: 20px;
+  justify-content: space-between;
 }
 .work-img {
   border-radius: 5px;
-  margin-top: 42px;
 }
 
 .work-h2 {
@@ -87,9 +90,9 @@ li {
   left: 30px;
 }
 .work-ul {
-  width: 244px;
+  width: 349px;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 23px;
 }
 
 .minion {
